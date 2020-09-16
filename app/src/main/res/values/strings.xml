@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Loc</string>
+    <string name= "greeting">Hello and welcome!</string>
 </resources>
